@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshith</h1>
 <h3 align="center">A passionate coder from India</h3>
 
-<img align="right" alt="Coding" width=""400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0-I5Fg4ro0YBoL_1BpkzIy&ust=1722602323020000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqGAoTCPDI6fHn04cDFQAAAAAdAAAAABCYAQ">
+<img align="right" alt="Coding" width=""400 src= "https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshr2135&label=Profile%20views&color=0e75b6&style=flat" alt="harshr2135" /> </p>
 
