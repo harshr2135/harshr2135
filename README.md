@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m harshith raju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m harshith raju" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-harshith-raju-a31897291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-harshith-raju-a31897291" height="30" width="40" /></a>
 <a href="https://kaggle.com/mharshithraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mharshithraju" height="30" width="40" /></a>
 <a href="https://instagram.com/harshithmr2135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshithmr2135" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@harshithmr2135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshithmr2135" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshithmr2135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshithmr2135" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshr2135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshr2135" height="30" width="40" /></a>
 </p>
 
