@@ -28,4 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshr2135&" alt="harshr2135" /></p>
 
 
- ![Snake animation](https://github.com/harshr2135/harshr2135/blob/output/github-contribution-grid-snake.svg)
+ ![snake animation](https://github.com/harshr2135/harshr2135/blob/output/github-contribution-grid-snake2.svg)
