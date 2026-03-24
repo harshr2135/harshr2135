@@ -1,5 +1,11 @@
 # 💫 About Me:
 
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="700"/>
+
+</div>
+
 Data Science and AI enthusiast passionate about building impactful, real-world solutions.<br>Currently exploring Machine Learning, Neural Networks, and NLP, with a strong interest in developing end-to-end intelligent systems.<br>Continuously learning and building — driven to solve meaningful problems through technology.
 
 
